@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DDecoito_Mini_Challenge_8/1.0.0": {
+        "runtime": {
+          "DDecoito_Mini_Challenge_8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DDecoito_Mini_Challenge_8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
