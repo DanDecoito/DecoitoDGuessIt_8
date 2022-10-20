@@ -13,3 +13,18 @@ C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Chal
 C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.pdb
 C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.genruntimeconfig.cache
 C:\Users\danie\OneDrive\Documents\Code Stack Academy\Homework\DDecoito_Mini_Challenge_8\obj\Debug\net6.0\ref\DDecoito_Mini_Challenge_8.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\bin\Debug\net6.0\DDecoito_Mini_Challenge_8.exe
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\bin\Debug\net6.0\DDecoito_Mini_Challenge_8.deps.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\bin\Debug\net6.0\DDecoito_Mini_Challenge_8.runtimeconfig.json
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\bin\Debug\net6.0\DDecoito_Mini_Challenge_8.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\bin\Debug\net6.0\DDecoito_Mini_Challenge_8.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\refint\DDecoito_Mini_Challenge_8.dll
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.pdb
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\DDecoito_Mini_Challenge_8.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documents\Code Stack Academy\Github Repository\DecoitoDGuessIt_8\obj\Debug\net6.0\ref\DDecoito_Mini_Challenge_8.dll
